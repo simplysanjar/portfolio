@@ -939,7 +939,7 @@ export function Contact({ t }) {
     },
     {
       label: 'Portfolio',
-      value: 'sanjar.world',
+      value: 'www.sanjar.world',
       href: profile.site,
       icon: 'mdi:briefcase-outline',
     },

@@ -21,5 +21,5 @@ Until a file exists, the site shows a clean placeholder (initials, project name,
 1. Push this folder to GitHub (the `portfolio` repo).
 2. Render → New → Static Site → select the repo.
 3. Build Command: `npm install && npm run build`   Publish Directory: `dist`
-4. Settings → Custom Domains → add `sanjar.world` and set the DNS records Render shows.
+4. Settings → Custom Domains → add `www.sanjar.world` and set the DNS records Render shows.
 Navigation uses `#/tab` links, so no rewrite rules are needed.

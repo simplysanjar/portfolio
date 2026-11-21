@@ -8,7 +8,7 @@ export const profile = {
   github: 'https://github.com/simplysanjar',
   githubUser: 'simplysanjar',
   linkedin: 'https://www.linkedin.com/in/simplysanjar/',
-  site: 'https://sanjar.world',
+  site: 'https://www.sanjar.world',
   photo: '/profile/photo.png',          // put your photo in public/profile/
   cv: '/cv/Asadzoda_Sanjar_CV.pdf',     // put your CV in public/cv/ (replace the file to update)
 }
@@ -65,7 +65,7 @@ export const projects = [
     ],
     tech: ['React', 'Tailwind CSS', 'i18n', 'JavaScript', 'HTML', 'CSS'],
     links: [['Code', 'https://github.com/simplysanjar/portfolio']],
-    website: 'https://sanjar.world',
+    website: 'https://www.sanjar.world',
   },
   {
     id: 'messenger0', title: 'Messenger0',

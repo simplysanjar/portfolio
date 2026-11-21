@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://sanjar.world/sitemap.xml
+Sitemap: https://www.sanjar.world/sitemap.xml
